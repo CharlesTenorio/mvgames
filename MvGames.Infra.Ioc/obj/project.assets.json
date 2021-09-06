@@ -1,0 +1,132 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "MvGames.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "MvGames.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MvGames.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MvGames.Application.dll": {}
+        }
+      },
+      "MvGames.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/MvGames.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MvGames.Domain.dll": {}
+        }
+      },
+      "MvGames.Infra.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "MvGames.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MvGames.Infra.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MvGames.Infra.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MvGames.Application/1.0.0": {
+      "type": "project",
+      "path": "../MvGames.Application/MvGames.Application.csproj",
+      "msbuildProject": "../MvGames.Application/MvGames.Application.csproj"
+    },
+    "MvGames.Domain/1.0.0": {
+      "type": "project",
+      "path": "../MvGames.Domain/MvGames.Domain.csproj",
+      "msbuildProject": "../MvGames.Domain/MvGames.Domain.csproj"
+    },
+    "MvGames.Infra.Data/1.0.0": {
+      "type": "project",
+      "path": "../MvGames.Infra.Data/MvGames.Infra.Data.csproj",
+      "msbuildProject": "../MvGames.Infra.Data/MvGames.Infra.Data.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "MvGames.Application >= 1.0.0",
+      "MvGames.Domain >= 1.0.0",
+      "MvGames.Infra.Data >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/charles-lid/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/charles-lid/testes/mvgames/MvGames.Infra.Ioc/MvGames.Infra.Ioc.csproj",
+      "projectName": "MvGames.Infra.Ioc",
+      "projectPath": "/home/charles-lid/testes/mvgames/MvGames.Infra.Ioc/MvGames.Infra.Ioc.csproj",
+      "packagesPath": "/home/charles-lid/.nuget/packages/",
+      "outputPath": "/home/charles-lid/testes/mvgames/MvGames.Infra.Ioc/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/charles-lid/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "/home/charles-lid/testes/mvgames/MvGames.Application/MvGames.Application.csproj": {
+              "projectPath": "/home/charles-lid/testes/mvgames/MvGames.Application/MvGames.Application.csproj"
+            },
+            "/home/charles-lid/testes/mvgames/MvGames.Domain/MvGames.Domain.csproj": {
+              "projectPath": "/home/charles-lid/testes/mvgames/MvGames.Domain/MvGames.Domain.csproj"
+            },
+            "/home/charles-lid/testes/mvgames/MvGames.Infra.Data/MvGames.Infra.Data.csproj": {
+              "projectPath": "/home/charles-lid/testes/mvgames/MvGames.Infra.Data/MvGames.Infra.Data.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

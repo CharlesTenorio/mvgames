@@ -1,0 +1,12 @@
+/home/charles-lid/testes/mvgames/MvGames.Infra.Ioc/bin/Debug/net5.0/MvGames.Infra.Ioc.deps.json
+/home/charles-lid/testes/mvgames/MvGames.Infra.Ioc/bin/Debug/net5.0/MvGames.Infra.Ioc.dll
+/home/charles-lid/testes/mvgames/MvGames.Infra.Ioc/bin/Debug/net5.0/ref/MvGames.Infra.Ioc.dll
+/home/charles-lid/testes/mvgames/MvGames.Infra.Ioc/bin/Debug/net5.0/MvGames.Infra.Ioc.pdb
+/home/charles-lid/testes/mvgames/MvGames.Infra.Ioc/obj/Debug/net5.0/MvGames.Infra.Ioc.csproj.AssemblyReference.cache
+/home/charles-lid/testes/mvgames/MvGames.Infra.Ioc/obj/Debug/net5.0/MvGames.Infra.Ioc.GeneratedMSBuildEditorConfig.editorconfig
+/home/charles-lid/testes/mvgames/MvGames.Infra.Ioc/obj/Debug/net5.0/MvGames.Infra.Ioc.AssemblyInfoInputs.cache
+/home/charles-lid/testes/mvgames/MvGames.Infra.Ioc/obj/Debug/net5.0/MvGames.Infra.Ioc.AssemblyInfo.cs
+/home/charles-lid/testes/mvgames/MvGames.Infra.Ioc/obj/Debug/net5.0/MvGames.Infra.Ioc.csproj.CoreCompileInputs.cache
+/home/charles-lid/testes/mvgames/MvGames.Infra.Ioc/obj/Debug/net5.0/MvGames.Infra.Ioc.dll
+/home/charles-lid/testes/mvgames/MvGames.Infra.Ioc/obj/Debug/net5.0/ref/MvGames.Infra.Ioc.dll
+/home/charles-lid/testes/mvgames/MvGames.Infra.Ioc/obj/Debug/net5.0/MvGames.Infra.Ioc.pdb

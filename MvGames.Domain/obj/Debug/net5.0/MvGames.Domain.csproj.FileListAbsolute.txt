@@ -1,0 +1,12 @@
+/home/charles-lid/testes/mvgames/MvGames.Domain/bin/Debug/net5.0/MvGames.Domain.deps.json
+/home/charles-lid/testes/mvgames/MvGames.Domain/bin/Debug/net5.0/MvGames.Domain.dll
+/home/charles-lid/testes/mvgames/MvGames.Domain/bin/Debug/net5.0/ref/MvGames.Domain.dll
+/home/charles-lid/testes/mvgames/MvGames.Domain/bin/Debug/net5.0/MvGames.Domain.pdb
+/home/charles-lid/testes/mvgames/MvGames.Domain/obj/Debug/net5.0/MvGames.Domain.csproj.AssemblyReference.cache
+/home/charles-lid/testes/mvgames/MvGames.Domain/obj/Debug/net5.0/MvGames.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/charles-lid/testes/mvgames/MvGames.Domain/obj/Debug/net5.0/MvGames.Domain.AssemblyInfoInputs.cache
+/home/charles-lid/testes/mvgames/MvGames.Domain/obj/Debug/net5.0/MvGames.Domain.AssemblyInfo.cs
+/home/charles-lid/testes/mvgames/MvGames.Domain/obj/Debug/net5.0/MvGames.Domain.csproj.CoreCompileInputs.cache
+/home/charles-lid/testes/mvgames/MvGames.Domain/obj/Debug/net5.0/MvGames.Domain.dll
+/home/charles-lid/testes/mvgames/MvGames.Domain/obj/Debug/net5.0/ref/MvGames.Domain.dll
+/home/charles-lid/testes/mvgames/MvGames.Domain/obj/Debug/net5.0/MvGames.Domain.pdb

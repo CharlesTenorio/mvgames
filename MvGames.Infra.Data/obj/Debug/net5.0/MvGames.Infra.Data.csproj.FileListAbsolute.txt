@@ -1,0 +1,12 @@
+/home/charles-lid/testes/mvgames/MvGames.Infra.Data/bin/Debug/net5.0/MvGames.Infra.Data.deps.json
+/home/charles-lid/testes/mvgames/MvGames.Infra.Data/bin/Debug/net5.0/MvGames.Infra.Data.dll
+/home/charles-lid/testes/mvgames/MvGames.Infra.Data/bin/Debug/net5.0/ref/MvGames.Infra.Data.dll
+/home/charles-lid/testes/mvgames/MvGames.Infra.Data/bin/Debug/net5.0/MvGames.Infra.Data.pdb
+/home/charles-lid/testes/mvgames/MvGames.Infra.Data/obj/Debug/net5.0/MvGames.Infra.Data.csproj.AssemblyReference.cache
+/home/charles-lid/testes/mvgames/MvGames.Infra.Data/obj/Debug/net5.0/MvGames.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+/home/charles-lid/testes/mvgames/MvGames.Infra.Data/obj/Debug/net5.0/MvGames.Infra.Data.AssemblyInfoInputs.cache
+/home/charles-lid/testes/mvgames/MvGames.Infra.Data/obj/Debug/net5.0/MvGames.Infra.Data.AssemblyInfo.cs
+/home/charles-lid/testes/mvgames/MvGames.Infra.Data/obj/Debug/net5.0/MvGames.Infra.Data.csproj.CoreCompileInputs.cache
+/home/charles-lid/testes/mvgames/MvGames.Infra.Data/obj/Debug/net5.0/MvGames.Infra.Data.dll
+/home/charles-lid/testes/mvgames/MvGames.Infra.Data/obj/Debug/net5.0/ref/MvGames.Infra.Data.dll
+/home/charles-lid/testes/mvgames/MvGames.Infra.Data/obj/Debug/net5.0/MvGames.Infra.Data.pdb
