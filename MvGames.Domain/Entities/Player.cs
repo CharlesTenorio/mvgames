@@ -1,10 +1,10 @@
 using System.Runtime.Intrinsics.Arm.Arm64;
 namespace MvGames.Domain.Entities
 {
-    public class Player : Base
+    public sealed class Player : ClassBase
     { 
-      public String Name{get; private set;}
-      public String Position{get; private set;}
+      public string Name{get; private set;}
+      public string Position{get; private set;}
       public int SocceId { get; set; }
       public SoccerTeam SoccerTeam { get; set; }
 
@@ -17,7 +17,7 @@ namespace MvGames.Domain.Entities
       }
         
 
-        private void ValidateDomain(string name,  String position)
+        private void ValidateDomain(string name,  string position)
         {
             DomainExceptionValidation.When(string.IsNullOrEmpty(name),
                 "Invalid name.Name is required");

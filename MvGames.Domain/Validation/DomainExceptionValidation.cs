@@ -1,18 +1,17 @@
 using System;
+
 namespace MvGames.Domain.Validation
 {
-    public class DomainExceptionValidation : Exception
+    public class DomainExceptionValidation: Exception
     {
-        public DomainExceptionValidation(String error) : base(error)
-        {
-            
-        }
+        public DomainExceptionValidation(string error) : base(error){}
+       
 
-        public static void When(bool hasError, String error)
+        public static void When(bool hasError, string error)
         {
-            if(hasError){
+            if(hasError)
                 trhow new DomainExceptionValidation(error);
-            }
+            
         }
         
     }
